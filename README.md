@@ -14,5 +14,5 @@ docker-compose build
 docker run -it shortpath_app
 
 ## PHP
-
+Пример:
 http://x9033319.bget.ru/
